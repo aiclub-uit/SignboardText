@@ -45,7 +45,7 @@ This repository includes the code and data links mentioned in our papers, encomp
 </table>
 
 ## Download
-To download the data, please send a request email to thuyentd@uit.edu.vn and tell us which school you are affiliated with. And by downloading this dataset, USER agrees:
+To download the data, please send a request email to thuyentd@uit.edu.vn or tiendv@uit.edu.vn and tell us which school you are affiliated with. And by downloading this dataset, USER agrees:
 > * to use this dataset for research or educational purposes only;
 > * to not distribute or part of this dataset in any original or modified form;
 > * and to cite our github repo whenever this dataset are employed to help produce published results.
